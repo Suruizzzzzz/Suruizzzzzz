@@ -1,6 +1,3 @@
-<!-- ========================================================= -->
-<!--                 JOSHUA'S GITHUB PROFILE                  -->
-<!-- ========================================================= -->
 
 <div align="center">
 
@@ -18,25 +15,6 @@
 
 </div>
 
----
-
-## `whoami`
-
-```text
-       .--.                         JOSHUA.DEV // PROFILE
-      |o_o |                        ─────────────────────
-      |:_/ |                        NAME    : Joshua Andrie Suruiz
-     //   \ \                       ROLE    : Web Developer
-    (|     | )                      STATUS  : ● Building
-   /'\_   _/`\                     LOCATION: Philippines 🇵🇭
-   \___)=(___/                     FOCUS   : Modern Web Applications
-
-   > system_status: ONLINE
-   > currently: learning, building, improving...
-```
-
----
-
 ## 👨‍💻 About Me
 
 ```text
@@ -45,14 +23,10 @@ $ cat about_me.txt
 I am a Web Developer and BSIT student who enjoys building useful,
 organized, and user-friendly web applications.
 
-Currently working on systems related to education and scholarship
-management while continuously improving my development skills.
-
 $ _
 ```
 
 - 🌐 Focused on **Web Development**
-- 🏛️ Building an **Education & Scholarship Management System**
 - 🧩 Interested in **dynamic and database-driven web applications**
 - 🎨 Learning more about **modern UI/UX and responsive design**
 - 🚀 Always working on improving my skills one project at a time
@@ -83,31 +57,6 @@ $ _
 
 > **Note:** This profile is a work in progress—technologies will be updated as I continue learning and building.
 
----
-
-## 🚀 Current Mission
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│ PROJECT_STATUS: ACTIVE                                   │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  🏛️ EDUCATION & SCHOLARSHIP MANAGEMENT SYSTEM            │
-│                                                          │
-│  [✓] Scholarship Application Management                  │
-│  [✓] Student Information Management                      │
-│  [✓] Application Status Tracking                         │
-│  [✓] Role-Based Access                                   │
-│  [✓] Reports & Monitoring                                │
-│  [✓] REST API Integration                                │
-│                                                          │
-│  STATUS: █████████░ IN DEVELOPMENT                       │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -121,27 +70,6 @@ $ _
 <img src="https://streak-stats.demolab.com?user=Suruizzzzzz&hide_border=true&background=FFFFFF00&ring=2A6F8F&fire=2A6F8F&currStreakLabel=8CBAD2&sideLabels=8CBAD2&dates=8CBAD2&stroke=2A6F8F" alt="GitHub Streak" />
 
 </div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suruizzzzzz&bg_color=0d1117&color=8cbad2&line=2a6f8f&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<!-- This image will work after you set up the Snake GitHub Action. -->
-<img src="https://raw.githubusercontent.com/Suruizzzzzz/Suruizzzzzz/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
 
 ## 🧪 Developer Terminal
 
@@ -158,24 +86,6 @@ Git / GitHub████████░░  Daily Workflow
 joshua@github:~$ echo "Next goal?"
 Build. Learn. Improve. Repeat. 🚀
 ```
-
----
-
-## 📌 Featured Work
-
-### 🏛️ Education & Scholarship Management System
-
-A web-based system focused on organizing scholarship applications, student information, education services, monitoring, and related processes.
-
-`Web Development` · `Database Management` · `REST API` · `Role-Based Access`
-
-### 🌐 Civentral
-
-A citizen-focused application concept designed to help make access to digital government services more organized and accessible.
-
-`Citizen Services` · `Modern UI` · `System Integration`
-
-> More projects are coming as I continue building and improving my portfolio.
 
 ---
 
@@ -197,7 +107,7 @@ A citizen-focused application concept designed to help make access to digital go
 
 <br/><br/>
 
-### `Keep learning. Keep building. Keep improving.`
+### `NO RISK NO STORY`
 
 <sub>Designed and maintained by Joshua Andrie Suruiz</sub>
 
