@@ -23,7 +23,6 @@ $ cat about_me.txt
 I am a Web Developer and BSIT student who enjoys building useful,
 organized, and user-friendly web applications.
 
-$ _
 ```
 
 - 🌐 Focused on **Web Development**
