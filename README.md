@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Joshua Andrie Suruiz
+# 👋 Hey, I'm Joshua Suruiz
 
-### `WEB DEVELOPER` · `BSIT STUDENT` · `PHILIPPINES 🇵🇭`
+### `WEB DEVELOPER` · `BSIT STUDENT` 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=2A6F8F&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+profile...;%3E+Web+Developer+%7C+Building+useful+web+solutions;%3E+Turning+ideas+into+working+systems;%3E+Keep+learning.+Keep+building.+Keep+improving." alt="Typing SVG" />
 
