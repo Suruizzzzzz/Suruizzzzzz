@@ -56,20 +56,6 @@ organized, and user-friendly web applications.
 
 > **Note:** This profile is a work in progress—technologies will be updated as I continue learning and building.
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Suruizzzzzz&show_icons=true&hide_border=true&bg_color=00000000&title_color=2A6F8F&text_color=8CBAD2&icon_color=2A6F8F&rank_icon=github" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suruizzzzzz&layout=compact&hide_border=true&bg_color=00000000&title_color=2A6F8F&text_color=8CBAD2" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Suruizzzzzz&hide_border=true&background=FFFFFF00&ring=2A6F8F&fire=2A6F8F&currStreakLabel=8CBAD2&sideLabels=8CBAD2&dates=8CBAD2&stroke=2A6F8F" alt="GitHub Streak" />
-
-</div>
-
 ## 🧪 Developer Terminal
 
 ```text
