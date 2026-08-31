@@ -56,23 +56,6 @@ organized, and user-friendly web applications.
 
 > **Note:** This profile is a work in progress—technologies will be updated as I continue learning and building.
 
-## 🧪 Developer Terminal
-
-```text
-joshua@github:~$ skills --list
-
-Frontend    ██████████  HTML / CSS
-JavaScript  ████████░░  Building
-PHP         ███████░░░  Developing
-Databases   ███████░░░  Learning & Building
-React       ██████░░░░  Improving
-Git / GitHub████████░░  Daily Workflow
-
-joshua@github:~$ echo "Next goal?"
-Build. Learn. Improve. Repeat. 🚀
-```
-
----
 
 ## 🤝 Connect
 
